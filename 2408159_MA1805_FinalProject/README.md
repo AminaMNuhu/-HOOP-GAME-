@@ -1,0 +1,10 @@
+
+
+HOW TO INTERACT WITH THIS PROJECT
+This is a simple basketball themed ball drop game called ‘SHOOT’. The game is solely controlled by the computer’s mouse. Begin playing by clicking the screen, then use the mouse to move the basketball hoop across the screen in order to catch the basketball on time and generate a high score of points. If the player misses the ball at any point it will be declared ‘game over’, however it does not end here, there is opportunity to play the game again as many times as possible.
+
+CREATIVE DECISIONS
+I have chosen to imitate an inner city outdoor basketball court. To achieve this I started with a sky blue coloured background for the game. I also used Adobe software and Pixilart to create pixel art for the game’s assets. I chose to use pixel art opposed to regular 2D images to replicate the retro arcade game aesthetic of 1980s games like Tetris and Donkey Kong. With this software I made a pixelated basketball backboard/hoop, a basketball, a starting title and the game over title. To further imitate a basketball court I added a looped background sound of a city during rush hour. 
+
+EXTENSION
+Given more time and resources, I can envision extending the project by adding a timetable scoring system, where a player can create a profile and record their highest score. I would also add sound effects to my assets. For example a bell sound for everytime the player scores and a buzzer sound for when they lose. Another element I would add to the game is more visual assets, such as a pixelated cityscape background, to make the aesthetics of the game more elaborate than simple.
